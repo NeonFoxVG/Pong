@@ -31,3 +31,7 @@ This was a short project to practice Unity fundamentals and finish something sma
 * Single-player AI
 * Sound effects
 * Pause menu
+
+##Screenshot
+
+![Pong](https://github.com/NeonFoxVG/Pong/blob/main/Pong.png)
